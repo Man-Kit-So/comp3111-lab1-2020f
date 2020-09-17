@@ -1,3 +1,3 @@
 Mary
 12348765
-![Git History] (C:\Users\So Man Kit\Desktop\HKUST\2020-21 Fall Sem\COMP 3111\Git_History.PNG)
+<img src="https://user-images.githubusercontent.com/71419372/93415571-676b5a80-f8d6-11ea-86c1-bdc7195ae019.png" width="15%"></img> 
